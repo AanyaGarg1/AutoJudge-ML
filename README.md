@@ -1,5 +1,5 @@
 # AutoJudge: Predicting Programming Problem Difficulty
-AANYA
+AANYA GARG
 AutoJudge is an intelligent system that automatically predicts the difficulty class (Easy, Medium, Hard) and numerical difficulty score of programming problems based only on their textual descriptions.
 
 ## Features
