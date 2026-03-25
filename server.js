@@ -9,7 +9,10 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Load model
+// ==================== MODEL LOADING ====================
+// Load pre-trained Random Forest models from model.json
+// Models are trained on 2000 augmented sample problems
+// Re-run train_model.js to retrain with new data
 let modelData;
 try {
     modelData = JSON.parse(fs.readFileSync('model.json', 'utf8'));
