@@ -9,7 +9,6 @@ This guide will get your project running locally in 5 minutes.
 ## Prerequisites
 
 - **Node.js** v16+ ([Download](https://nodejs.org/))
-- **Python** 3.8+ ([Download](https://www.python.org/downloads/))
 - **Git** ([Download](https://git-scm.com/downloads))
 
 Check installations:
