@@ -10,7 +10,7 @@ This project addresses the challenge of automatically assessing problem difficul
 - **Name:** Deepak Garg
 - **Project Type:** Machine Learning - Classification & Regression
 - **Technology Stack:** React.js, Node.js, Express, Machine Learning (Random Forest)
-- **Demo Video:** [🎬 ADD YOUR DEMO VIDEO LINK HERE - YouTube/Drive/Loom]
+- **GitHub:** [AanyaGarg1/AutoJudge](https://github.com/AanyaGarg1/AUTOJUDGE)
 
 ---
 
