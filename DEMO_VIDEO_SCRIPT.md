@@ -1,27 +1,5 @@
 # 🎬 AutoJudge Demo Video Script (2-3 Minutes)
 
-## Pre-Recording Checklist
-
-- [ ] Backend server running: `node server.js`
-- [ ] Frontend running: `cd frontend && npm run dev`
-- [ ] Browser open to `http://localhost:5173`
-- [ ] Test predictions work (try one before recording)
-- [ ] Close unnecessary tabs/windows
-- [ ] Recording software ready (OBS/Loom/Game Bar)
-- [ ] Microphone tested
-- [ ] Practice once before final recording
-
----
-
-## Recording Settings
-
-**Resolution:** 1920x1080 (or 1280x720 minimum)  
-**Frame Rate:** 30 fps  
-**Audio:** Clear microphone, no background noise  
-**Duration:** 2-3 minutes (aim for 2:30)
-
----
-
 ## Script
 
 ### 🎬 SCENE 1: Introduction (0:00 - 0:30)
