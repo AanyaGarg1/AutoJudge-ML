@@ -1,13 +1,15 @@
 {
   "name": "autojudge",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "ML-powered difficulty prediction system for competitive programming problems using Random Forest and NLP",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
+    "train": "node train_model.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["machine-learning", "random-forest", "nlp", "competitive-programming", "codeforces"],
+  "author": "Deepak Garg",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
