@@ -1,12 +1,61 @@
+# Dependencies
 node_modules/
 frontend/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# System files
 .DS_Store
-*.json
-!package.json
-!model.json
-!cf_300_metadata.json
-!selected_problems.json
-problems.csv
+Thumbs.db
+
+# Environment variables
 .env
+
+# Build outputs
 dist/
 build/
+frontend/dist/
+frontend/build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Don't ignore these important files for submission
+!package.json
+!package-lock.json
+!frontend/package.json
+!frontend/package-lock.json
+!model.json
+!metrics.json
+!python_metrics.json
+!cf_300_metadata.json
+!selected_problems.json
+!cf_problems.json
+!problems.csv
+
+# Include trained models for submission
+!classifier_model.pkl
+!regressor_model.pkl
+
+# Include documentation
+!README.md
+!REPORT_TEMPLATE.md
+!SUBMISSION_CHECKLIST.md
+!QUICK_SETUP.md
+!requirements.txt
+!report.pdf
